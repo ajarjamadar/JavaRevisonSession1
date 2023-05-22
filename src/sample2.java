@@ -13,6 +13,7 @@ public class sample2 {
 		int b=10;
 		int c = sample.a/b;
 		System.out.println(c);
+		
 	}
 	
 
